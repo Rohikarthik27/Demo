@@ -1,0 +1,12 @@
+Encapsulation:
+
+-> It is used to restrict access to methods and variables. 
+-> In encapsulation, code(Actions, behaviour) and data(Variables) are wrapped together within a single unit from being modified by accident.
+-> Best example: Class
+
+-> We will be using access modifiers like private.
+-> Private will access within the class.
+Eg: Private a;
+-> Variable 'a' can access within the class. we cannot access from another class.
+-> By using the methods we are securing the data based on methods.
+-> based on methods we are giving access to the objects.

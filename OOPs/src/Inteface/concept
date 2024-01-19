@@ -1,0 +1,7 @@
+Interface:
+-> Interface is a blueprint of a class.
+-> Simply we can say what to do.
+-> Unimplemented methods are known as 'Abstract Methods'.
+-> In interface we wont implement the methods, it is called abstract methods.
+
+-> We can have implement methods in interfaces by providing the Default and Static keyword access modifiers. If public it will through an error.

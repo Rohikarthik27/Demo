@@ -1,0 +1,10 @@
+Abstraction:
+
+-> Hiding internal details and showing functionality is known as abstraction.
+
+Abstract class:
+-> A class which is declared with the abstract keyword is known as an abstract class.
+-> An abstract class is a class which contains the abstract methods and is defined with keyword abstract.
+
+
+-> Abstract method is known as unimplemented method.
